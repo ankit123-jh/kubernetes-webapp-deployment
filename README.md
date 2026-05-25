@@ -61,4 +61,5 @@ Auto-healing Test
 
 ## Conclusion
 
-This project helped me understand how Kubernetes deploys, exposes, scales, updates, and self-heals containerized applications.
+This project helped me understand the complete Kubernetes workflow for deploying, exposing, scaling, updating, and self-healing a containerized web application. It also provided hands-on practice with Kubernetes manifests, namespaces, services, ingress, config maps, secrets, persistent volumes, and rollout management.
+```
