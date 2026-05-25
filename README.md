@@ -58,7 +58,7 @@ Auto-healing Test
     ->kubectl get pods -n dev
 
 
-
+```bash
 ## Conclusion
 
 This project helped me understand the complete Kubernetes workflow for deploying, exposing, scaling, updating, and self-healing a containerized web application. It also provided hands-on practice with Kubernetes manifests, namespaces, services, ingress, config maps, secrets, persistent volumes, and rollout management.
