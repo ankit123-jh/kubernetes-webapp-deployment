@@ -58,6 +58,7 @@ Auto-healing Test
     ->kubectl get pods -n dev
 
 
-Conclusion
+
+## Conclusion
 
 This project helped me understand how Kubernetes deploys, exposes, scales, updates, and self-heals containerized applications.
